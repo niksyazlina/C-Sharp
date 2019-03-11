@@ -1,0 +1,10 @@
+C:\Users\my14044528\Documents\Visual Studio 2015\Projects\TEST_SYNC_FILE\BlinkSyncLib\bin\Debug\BlinkSyncLib.dll
+C:\Users\my14044528\Documents\Visual Studio 2015\Projects\TEST_SYNC_FILE\BlinkSyncLib\bin\Debug\BlinkSyncLib.pdb
+C:\Users\my14044528\Documents\Visual Studio 2015\Projects\TEST_SYNC_FILE\BlinkSyncLib\obj\Debug\BlinkSyncLib.csprojResolveAssemblyReference.cache
+C:\Users\my14044528\Documents\Visual Studio 2015\Projects\TEST_SYNC_FILE\BlinkSyncLib\obj\Debug\BlinkSyncLib.dll
+C:\Users\my14044528\Documents\Visual Studio 2015\Projects\TEST_SYNC_FILE\BlinkSyncLib\obj\Debug\BlinkSyncLib.pdb
+C:\IT_CodeRepo\TEST_SYNC_FILE\BlinkSyncLib\bin\Debug\BlinkSyncLib.dll
+C:\IT_CodeRepo\TEST_SYNC_FILE\BlinkSyncLib\bin\Debug\BlinkSyncLib.pdb
+C:\IT_CodeRepo\TEST_SYNC_FILE\BlinkSyncLib\obj\Debug\BlinkSyncLib.dll
+C:\IT_CodeRepo\TEST_SYNC_FILE\BlinkSyncLib\obj\Debug\BlinkSyncLib.pdb
+C:\IT_CodeRepo\TEST_SYNC_FILE\BlinkSyncLib\obj\Debug\BlinkSyncLib.csprojResolveAssemblyReference.cache

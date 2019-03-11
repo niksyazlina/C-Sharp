@@ -1,0 +1,19 @@
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\TEST_SYNC_FILE.exe.config
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\TEST_SYNC_FILE.exe
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\TEST_SYNC_FILE.pdb
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.csprojResolveAssemblyReference.cache
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.exe
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.pdb
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\BlinkSyncLib.dll
+c:\users\my14044528\documents\visual studio 2015\Projects\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\BlinkSyncLib.pdb
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\TEST_SYNC_FILE.exe.config
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.exe
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.pdb
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\TEST_SYNC_FILE.exe
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\TEST_SYNC_FILE.pdb
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\BlinkSyncLib.dll
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\BlinkSyncLib.pdb
+C:\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.csprojResolveAssemblyReference.cache
+\\klmd0013\c$\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\bin\Debug\TEST_SYNC_FILE.exe.config
+\\klmd0013\c$\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.exe
+\\klmd0013\c$\IT_CodeRepo\TEST_SYNC_FILE\TEST_SYNC_FILE\obj\Debug\TEST_SYNC_FILE.pdb
